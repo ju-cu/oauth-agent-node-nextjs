@@ -68,7 +68,7 @@ The following variables are used by the configuration of the OAuth Agent:
 
 See the below article for details on how to run the end-to-end solution in a browser:
 
-- [SPA Code Example](https://curity.io/resources/learn/token-handler-spa-example/)
+- [SPA Code Example](https://github.com/curityio/spa-using-token-handler)
 
 The end-to-end solution, by default, uses our [Express implementation of the OAuth Agent](https://github.com/curityio/oauth-agent-node-express).
 If you want to run it with this Next.js implementation, then a few things would have to be changed manually in the build
@@ -76,7 +76,7 @@ and deployment scripts. In this repository, you will find a `Dockerfile` that ca
 
 ## Website Documentation
 
-See the [Curity OAuth for Web Home Page](https://curity.io/product/token-service/oauth-for-web/) for all resources on this design pattern.
+See the [Curity Token Handler Design Overview](https://curity.io/resources/learn/token-handler-overview/) for further token handler information.
 
 ## More Information
 
